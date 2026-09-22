@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+bin/
+out/
+target/
+
+# Database file (generated at runtime)
+library.db
+*.db
+
+# Large JDBC driver (download separately – see README)
+lib/*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
