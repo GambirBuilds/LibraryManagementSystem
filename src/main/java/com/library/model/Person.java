@@ -1,0 +1,64 @@
+package com.library.model;
+
+/**
+ * Abstract base class demonstrating inheritance and abstraction.
+ */
+public abstract class Person {
+    private int id;
+    private String name;
+    private String email;
+    private String phone;
+
+    public Person() {
+    }
+
+    public Person(int id, String name, String email, String phone) {
+        this.id = id;
+        this.name = name;
+        this.email = email;
+        this.phone = phone;
+    }
+
+    // Encapsulation: private fields with public getters/setters
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
+
+    /**
+     * Abstract method - forces subclasses to provide their own display logic (polymorphism).
+     */
+    public abstract String getDisplayInfo();
+
+    @Override
+    public String toString() {
+        return "Person{id=" + id + ", name='" + name + "', email='" + email + "'}";
+    }
+}
