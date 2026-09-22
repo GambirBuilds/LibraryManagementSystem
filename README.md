@@ -156,14 +156,5 @@ Then you can test Issue/Return and Reports.
 - No reservation / waitlist feature
 - Single-user console application
 
-## Screenshots
 
-```
-<img width="749" height="342" alt="image" src="https://github.com/user-attachments/assets/b0bc4347-3fca-4b60-960c-5587075d0c08" />
-
-<img width="794" height="472" alt="image" src="https://github.com/user-attachments/assets/fb555e4e-de94-4441-ba0a-2ccab998b068" />
-
-<img width="816" height="506" alt="image" src="https://github.com/user-attachments/assets/59486efb-66a6-4dcb-8f0c-1516ca5980d8" />
-
-```
 
