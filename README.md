@@ -158,13 +158,12 @@ Then you can test Issue/Return and Reports.
 
 ## Screenshots
 
-
 ```
-<img width="881" height="444" alt="image" src="https://github.com/user-attachments/assets/804eb809-b098-4ee2-9e12-0e181f2503fd" />
+<img width="749" height="342" alt="image" src="https://github.com/user-attachments/assets/b0bc4347-3fca-4b60-960c-5587075d0c08" />
 
-<img width="975" height="595" alt="image" src="https://github.com/user-attachments/assets/90578e61-cf50-4ad2-8059-7330f470e13d" />
+<img width="794" height="472" alt="image" src="https://github.com/user-attachments/assets/fb555e4e-de94-4441-ba0a-2ccab998b068" />
 
-<img width="681" height="329" alt="image" src="https://github.com/user-attachments/assets/0b6b6e72-b57d-4bcc-85f6-bbc6fd9af66a" />
+<img width="816" height="506" alt="image" src="https://github.com/user-attachments/assets/59486efb-66a6-4dcb-8f0c-1516ca5980d8" />
 
 ```
 
