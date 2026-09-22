@@ -160,10 +160,11 @@ Then you can test Issue/Return and Reports.
 
 
 ```
-![alt text](image.png)
+<img width="881" height="444" alt="image" src="https://github.com/user-attachments/assets/46662a3d-6d44-466a-9cb6-feaa496ca27e" />
 
-![alt text](image-1.png)
+<img width="975" height="595" alt="image" src="https://github.com/user-attachments/assets/b1cc412e-3a06-4ad4-84a9-68181b49ece8" />
 
-![alt text](image-2.png)
+<img width="681" height="329" alt="image" src="https://github.com/user-attachments/assets/2d30d3ce-3571-449d-a848-189d1d58d6b4" />
+
 ```
 
